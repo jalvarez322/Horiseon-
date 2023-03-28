@@ -1,4 +1,4 @@
-# <Horiseon web page>
+# Horiseon web page
 
 ## Usage
 
