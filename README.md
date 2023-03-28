@@ -4,7 +4,7 @@
 
 This website is being used search engine optimization, social media marketing, and information
 
-## Credot
+## Credit
 
 Source code provided by Horiseon 
 
