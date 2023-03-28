@@ -6,7 +6,7 @@ This website is being used search engine optimization, social media marketing, a
 
 ## License
 
-Source code provvided by Horiseon 
+Source code provided by Horiseon 
 
 ## License
 
